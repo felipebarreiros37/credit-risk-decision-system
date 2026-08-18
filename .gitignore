@@ -8,4 +8,4 @@ data/processed/*
 .ipynb_checkpoints/
 .env
 
-.anaconda_projects/
+anaconda_projects/
